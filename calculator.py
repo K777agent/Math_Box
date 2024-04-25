@@ -8,5 +8,9 @@ def subtract(a, b):
 def multiply(a, b):
   return a*b
 
+<<<<<<< HEAD
 def devide_premium(a, b):
+=======
+def devide_free(a, b):
+>>>>>>> main
   return a/b
